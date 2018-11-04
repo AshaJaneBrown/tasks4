@@ -1,0 +1,23 @@
+Starting audit...
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:8:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:12:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:23:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:27:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:32:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:3: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:16:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:26:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:38:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:42:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:46:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:50:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:54:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:61:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:66:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:72:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:78:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:84:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:91:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:95:5: Missing a Javadoc comment.
+Audit done.
