@@ -36,7 +36,7 @@ public abstract class TaskListTest extends AbstractListTest
         // remove first
         assert tasks.remove(ts[0]) : describe(tasks) +".remove(A) повинно бути істинним";
         assertEquals(4, tasks.size(), describe(tasks) +".size()");
-        assertContains(tasks, ts[1], ts[2], ts[3], ts[4]);
+         assertContains(tasks, ts[1], ts[2], ts[3], ts[4]); 
         
         // remove last
         assert tasks.remove(ts[4]) : describe(tasks) +".remove(E) повинно бути істинним";
