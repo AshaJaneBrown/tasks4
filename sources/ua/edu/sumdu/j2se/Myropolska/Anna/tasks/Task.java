@@ -3,22 +3,28 @@ package ua.edu.sumdu.j2se.Myropolska.Anna.tasks;
 
 
 import java.io.IOException;
+import java.io.Serializable;
+import java.util.Date;
 
-public class Task {
+public class Task implements Serializable{
     /**
      * Task class contains information about tasks to be implemented
      * and is the basis for task manager application
      */
     private String title;
-    private int time;
+    //private int time;
     private boolean isActive;
-    private int start;
-    private int end;
+    //private int start;
+    //private int end;
     private int interval;
     private boolean isRepeated;
+    private Date start;
+    private Date end;
+    private Date time;
 
 
-    public Task(String title, int time) {
+
+    public Task(String title, Date time) {
         /**
          * Task constructor with the following parameters (String, int)
          */
@@ -28,7 +34,7 @@ public class Task {
         this.isRepeated = false;
     }
 
-    public Task(String title, int start, int end, int interval) {
+    public Task(String title, Date start, Date end, int interval) {
         /**
          * Task constructor with the following parameters (int, int, int)
          */
@@ -56,35 +62,28 @@ public class Task {
         return isActive;
     }
 
-    public int getTime() {
+    public Date getTime() {
         if (this.isRepeated())
             return start;
         else
             return time;
     }
 
-    public void setTime(int time) {
-        try {
-            if (time >= 0) {
+    public void setTime(Date time) {
                 this.time = time;
                 if (this.isRepeated())
                     this.isRepeated = false;
-            } else {
-                throw new IOException("Invalid time value");
-            }
-        } catch (IOException e) {
-            System.out.println(e.getMessage());
-        }
+
     }
 
-    public int getStartTime() {
+    public Date getStartTime() {
         if (this.isRepeated())
             return start;
         else
             return time;
     }
 
-    public int getEndTime() {
+    public Date getEndTime() {
         if (this.isRepeated())
             return end;
         else
@@ -98,65 +97,76 @@ public class Task {
             return 0;
     }
 
-    public void setTime(int start, int end, int interval) {
-        try {
-            if (start >= 0 && end >= 0 && interval > 0) {
+    public void setTime(Date start, Date end, int interval) {
+
                 this.start = start;
                 this.end = end;
                 this.interval = interval;
                 if (!this.isRepeated())
                     this.isRepeated = true;
-            } else throw new IOException("Invalid values");
-        } catch (IOException e) {
-            System.out.println(e.getMessage());
-        }
+
     }
 
     public boolean isRepeated() {
         return isRepeated;
     }
 
-    public int nextTimeAfter(int current) {
+    public Date nextTimeAfter(Date current) {
+        Date result = null;
         /**
          * A method to define the next time when the task will be implemented
          */
         if (!this.isActive()) {
-            return -1;
+            return null;
         } else {
             if (!isRepeated()) {
-                if (current < time)
+                if (time.after(current)) {
+                    System.out.println("1");
                     return time;
-                else
-                    return -1;
+                } else {
+                    System.out.println("2");
+                    return null;
+                }
+
             } else {
-                if (current < start) {
+                if (start.after(current)) {
+                    System.out.println("3");
                     return start;
                 } else {
-                    if (current > end) {
-                        return -1;
+                    if (current.after(end)) {
+                        System.out.println(current);
+                        System.out.println(end);
+                        System.out.println("4");
+                        return null;
                     } else {
-                        int period = end - start;
-                        int generalNumberOfIntervals = period / interval;
+                        System.out.println("5");
+                        long msPeriod = end.getTime() - start.getTime();
+                        System.out.println(msPeriod);
+                        long generalNumberOfIntervals = (msPeriod / (interval * 1000));
+                        System.out.println(generalNumberOfIntervals);
                         /**
                          * The general number of intervals of a repeated task
                          * that fits into indicated period
                          */
-                        int numberOfIntervalsBeforeCurrent = (current - start)
-                                / interval;
+                        int numberOfIntervalsBeforeCurrent = (int) ((current.getTime() - start.getTime())
+                                / (interval * 1000));
+                       System.out.println(numberOfIntervalsBeforeCurrent);
                         /**
                          * Tne number of time intervals that has passed
                          * before the current time
                          */
-                        if (current >= (generalNumberOfIntervals * interval
-                                + start)) {
-                            return -1;
+                        if (current.getTime() >= (generalNumberOfIntervals * interval * 1000
+                                + start.getTime())) {
+                            System.out.println("6");
+                            return null;
                             /**
                              * Checking whether all the time intervals possible
                              * have already passed
                              */
                         } else {
-                            return (((numberOfIntervalsBeforeCurrent + 1)
-                                    * interval) + start);
+                            result = new Date(((numberOfIntervalsBeforeCurrent + 1)
+                                    * interval * 1000) + start.getTime());
+                            return result;
                         }
                         /**
                          * Defing and returning the start time
@@ -176,12 +186,18 @@ public class Task {
         Task that = (Task) o;
         if (this.title != that.title)
             return false;
-        if (this.time != that.time)
+        if (this.time.compareTo(that.time) != 0)
             return false;
         if (this.isActive != that.isActive)
             return false;
         if (this.isRepeated != that.isRepeated)
             return false;
+        //if (this.start.compareTo(that.start) != 0)
+           // return false;
+        //if (this.end.compareTo(that.end) != 0)
+           // return false;
+        //if (this.interval != that.interval)
+            //return false;
 
         return true;
     }
@@ -189,7 +205,7 @@ public class Task {
     @Override
     public int hashCode() {
         int result = title.hashCode();
-        result = 31 * result + time;
+        result = (int) (31 * result);
         result = 31 * result + (isActive ? 1 : 0);
         result = 31 * result + (isRepeated ? 1 : 0);
         return result;

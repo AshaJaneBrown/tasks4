@@ -1,5 +1,6 @@
 package ua.edu.sumdu.j2se.Myropolska.Anna.tasks;
 
+import java.util.Date;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -90,11 +91,11 @@ public class LinkedTaskList extends TaskList {
     }
 
     @Override
-    public TaskList createList(int from, int to) {
-        TaskList incoming = new LinkedTaskList();
+    /*public TaskList createList(Iterable<Task> tasks, Date from, Date to) {
+        TaskList incoming = (TaskList) tasks;
         for (int i = 0; i < size(); i++) {
-            if (getTask(i).nextTimeAfter(from) >= 0) {
-                if (getTask(i).nextTimeAfter(from) <= to)
+            if (getTask(i).nextTimeAfter(from) != null) {
+                if (to.after(getTask(i).nextTimeAfter(from)))
                     incoming.add(getTask(i));
 
 
@@ -104,6 +105,7 @@ public class LinkedTaskList extends TaskList {
         return incoming;
 
     }
+    */
     public Iterator<Task> iterator() {
         return new Iterator <Task>() {
             public Node currentNode = new Node(null, node);
@@ -167,7 +169,8 @@ public class LinkedTaskList extends TaskList {
 
     @Override
     public int hashCode() {
-        return node.nodeIndex * node.task.getTime();
+
+        return (int) (node.nodeIndex * node.task.getTime().getHours());
     }
 
     @Override
@@ -183,6 +186,8 @@ public class LinkedTaskList extends TaskList {
             cloned.add(iterator.next());
         return cloned;
     }
+	
+	
     /* public Iterator <Task> iterator() {
        return new Iterator <Task>() {
            public int current = -1;

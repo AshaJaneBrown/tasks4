@@ -1,6 +1,7 @@
 package ua.edu.sumdu.j2se.Myropolska.Anna.tasks;
 
 import java.util.Arrays;
+import java.util.Date;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -74,21 +75,21 @@ public class ArrayTaskList extends TaskList {
     }
 
     @Override
-    public TaskList createList(int from, int to) {
-        TaskList incoming = new ArrayTaskList();
+    /*public TaskList createList(Iterable<Task> tasks, Date from, Date to) {
+        TaskList incoming = (TaskList) tasks;
         for (int i = 0; i < size(); i++) {
-            if (getTask(i).nextTimeAfter(from) >= 0) {
-                if (getTask(i).nextTimeAfter(from) <= to)
+            if (getTask(i).nextTimeAfter(from) != null) {
+                if (to.after(getTask(i).nextTimeAfter(from)))
                     incoming.add(getTask(i));
-
 
             }
         }
 
         return incoming;
     }
+    */
 
-   public Iterator <Task> iterator() {
+   public Iterator<Task> iterator() {
         return new Iterator <Task>() {
             public int current = -1;
             boolean nextIsCalled = false;

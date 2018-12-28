@@ -1,8 +1,10 @@
 package ua.edu.sumdu.j2se.Myropolska.Anna.tasks;
 
+import java.io.Serializable;
+import java.util.Date;
 import java.util.Iterator;
 
-abstract public class TaskList implements Iterable{
+abstract public class TaskList implements Iterable<Task>, Serializable{
 
     public int size;
 
@@ -12,19 +14,16 @@ abstract public class TaskList implements Iterable{
 
     abstract public Task getTask(int index);
 
-    abstract public Iterator iterator();
+    abstract public Iterator<Task> iterator();
 
-    abstract public TaskList createList(int from, int to);
+    //abstract public TaskList createList(Iterable<Task> tasks, Date from, Date to);
 
 
     public int size() {
         return size;
     }
 
-    public TaskList incoming(int from, int to) {
-        TaskList incoming = createList(from, to);
-        return incoming;
-    }
+
 
 
 }
