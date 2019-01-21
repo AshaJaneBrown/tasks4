@@ -1,188 +1,214 @@
 Starting audit...
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:4:8: Unused import - java.util.Date.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:6:8: Unused import - java.util.NoSuchElementException.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:8: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:9:36: '5' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:32: Line is longer than 80 characters (found 81).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:93:28: '<' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:99:17: Conditional logic can be removed.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:110:17: '}' should be on the same line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:121:21: '}' should be on the same line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:138:59: '{' is not preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:139:15: 'if' is not followed by whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:154:34: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:155:53: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\ArrayTaskList.java:156:36: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:3:8: Unused import - java.util.Date.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:7: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:20:14: '(' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:60:72: '{' is not preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:64:17: '}' should be on the same line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:110:28: '<' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:118:17: Conditional logic can be removed.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:132:17: '}' should be on the same line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:139:34: '{' is not preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:147:17: '}' should be on the same line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:163:59: '{' is not preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:164:15: 'if' is not followed by whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:178:54: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\LinkedTaskList.java:189:1: File contains tab characters (this is the first instance).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:4:8: Unused import - java.io.FileReader.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:9:8: Unused import - java.util.Iterator.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:10:8: Unused import - java.util.Set.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:11:8: Unused import - java.util.SortedMap.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:13: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:14:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:16:24: '3600' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:18:23: '25' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:19:24: '8' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:20:24: '14' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:21:26: '22' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:25:21: '26' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:26:22: '11' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:27:22: '14' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:28:24: '22' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:32:26: '25' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:33:27: '11' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:34:27: '15' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:35:29: '22' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:39:26: '25' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:40:27: '9' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:41:27: '15' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:42:29: '22' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:46:25: '25' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:47:26: '10' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:48:26: '15' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:49:28: '22' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:62:47: '3500' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:63:47: '90000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:148: Line is longer than 80 characters (found 86).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:149: Line is longer than 80 characters (found 84).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:153: Line is longer than 80 characters (found 113).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:164: Line is longer than 80 characters (found 113).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:169: Line is longer than 80 characters (found 119).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:173: Line is longer than 80 characters (found 127).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:177: Line is longer than 80 characters (found 131).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Main.java:185: Line is longer than 80 characters (found 86).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:5:8: Unused import - java.io.IOException.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:9: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:9:42: '{' is not preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:27:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:37:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:49:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:53:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:57:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:61:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:65:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:72:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:79:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:86:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:93:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:100:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:110:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:114:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:145: Line is longer than 80 characters (found 87).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:145:81: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:151: Line is longer than 80 characters (found 105).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:152:47: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:158: Line is longer than 80 characters (found 92).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:158:89: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:167: Line is longer than 80 characters (found 83).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:168:50: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:208:25: '31' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:209:18: '31' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:210:18: '31' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:216:25: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:217:44: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:218:36: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:219:44: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:220:38: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:221:34: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:222:44: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Task.java:223:48: '+' should be on a new line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:4: Using the '.*' form of import should be avoided - java.io.*.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:11: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:11:44: '{' is not preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:13: Line is longer than 80 characters (found 92).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:15:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:47:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:87:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:97: Line is longer than 80 characters (found 81).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:97:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:108:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:121:17: '}' should be on the same line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:127: Line is longer than 80 characters (found 94).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:128: Line is longer than 80 characters (found 103).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:128:101: ')' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:134:33: '(' is followed by whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:134:73: ')' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:144:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:146:39: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:147:34: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:148:32: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:149:29: '24' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:151:18: '24' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:152:20: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:153:20: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:154:26: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:158: Line is longer than 80 characters (found 86).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:159: Line is longer than 80 characters (found 86).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:160: Line is longer than 80 characters (found 93).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:166: Line is longer than 80 characters (found 91).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:166:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:177: Line is longer than 80 characters (found 88).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:177:65: ',' is not followed by whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:186: Line is longer than 80 characters (found 90).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:189: Line is longer than 80 characters (found 101).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:191: Line is longer than 80 characters (found 100).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:192:43: 'cast' is not followed by whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:203:9: '}' should be on the same line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:208: Line is longer than 80 characters (found 97).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:208:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:208:72: Redundant throws: 'IllegalArgumentException' is unchecked exception.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242: Line is longer than 80 characters (found 126).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:24: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:29: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:34: '24' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:39: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:55: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:60: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:65: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:83: '60' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:88: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:242:106: '1000' is a magic number.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:245:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:255: Line is longer than 80 characters (found 96).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskIO.java:255:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:4:8: Unused import - java.util.Date.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:7: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:7:10: 'public' modifier out of order with the JLS suggestions.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:7:71: '{' is not preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:13:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:13:14: 'public' modifier out of order with the JLS suggestions.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:15:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:15:14: 'public' modifier out of order with the JLS suggestions.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:17:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:17:14: 'public' modifier out of order with the JLS suggestions.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:19: Line is longer than 80 characters (found 84).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\TaskList.java:22:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:3: Using the '.*' form of import should be avoided - java.util.*.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:5: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:7: Line is longer than 80 characters (found 108).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:7:9: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:7:31: '<' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:7:56: '<' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:12:17: '{' should be on the previous line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:13:17: '{' should be on the previous line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:14: Line is longer than 80 characters (found 101).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:17:17: '}' should be on the same line.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:18:48: Must have at least one statement.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:22: Line is longer than 80 characters (found 120).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:22:9: Missing a Javadoc comment.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:24: Line is longer than 80 characters (found 81).
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:24:21: '<' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:32:22: 'while' is not followed by whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:35:28: '<' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:42:28: '<' is preceded with whitespace.
-C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\Myropolska\Anna\tasks\Tasks.java:42:56: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:6: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:7:36: '5' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:30: Line is longer than 80 characters (found 81).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:71:4: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:72:28: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:78:17: Conditional logic can be removed.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:89:17: '}' should be on the same line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:100:21: '}' should be on the same line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:116:59: '{' is not preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:117:15: 'if' is not followed by whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:130:34: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:131:53: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\ArrayTaskList.java:132:36: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:6: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:85:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:85:20: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:86:28: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:92:17: Conditional logic can be removed.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:128:17: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:129:17: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:144:54: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\LinkedTaskList.java:151:17: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:8: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:9:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:11:24: '3600' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:13:23: '25' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:14:24: '8' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:15:24: '14' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:16:26: '22' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:20:21: '26' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:21:22: '11' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:22:22: '14' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:23:24: '22' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:27:26: '25' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:28:27: '11' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:29:27: '15' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:30:29: '22' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:34:26: '25' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:35:27: '9' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:36:27: '15' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:37:29: '22' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:41:25: '25' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:42:26: '10' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:43:26: '15' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:44:28: '22' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:57:47: '3500' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:58:47: '90000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:143: Line is longer than 80 characters (found 86).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:144: Line is longer than 80 characters (found 84).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:148: Line is longer than 80 characters (found 113).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:159: Line is longer than 80 characters (found 113).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:164: Line is longer than 80 characters (found 119).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:168: Line is longer than 80 characters (found 127).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:172: Line is longer than 80 characters (found 131).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Main.java:180: Line is longer than 80 characters (found 86).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:9: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:9:42: '{' is not preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:27:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:37:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:49:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:53:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:57:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:61:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:65:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:72:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:79:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:86:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:93:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:100:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:110:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:114:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:145: Line is longer than 80 characters (found 87).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:145:81: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:151: Line is longer than 80 characters (found 105).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:152:47: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:158: Line is longer than 80 characters (found 92).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:158:89: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:167: Line is longer than 80 characters (found 83).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:168:50: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:182:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:188:54: '&&' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:189:44: '&&' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:191:9: '}' should be on the same line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:193:54: '&&' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:194:46: '&&' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:195:47: '&&' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:196:42: '&&' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:206:25: '31' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:207:18: '31' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:208:18: '31' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:214:25: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:215:44: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:216:36: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:217:44: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:218:38: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:219:34: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:220:44: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Task.java:221:48: '+' should be on a new line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:4: Using the '.*' form of import should be avoided - java.io.*.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:11: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:11:44: '{' is not preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:13: Line is longer than 80 characters (found 92).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:15: Line is longer than 80 characters (found 83).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:15:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:39:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:71:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:81: Line is longer than 80 characters (found 81).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:81:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:92:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:105:17: '}' should be on the same line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:111: Line is longer than 80 characters (found 88).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:111:86: ')' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:112: Line is longer than 80 characters (found 103).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:112:101: ')' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:118:33: '(' is followed by whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:118:73: ')' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:128:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:130:39: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:131:34: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:132:32: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:133:29: '24' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:135:18: '24' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:136:20: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:137:20: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:138:26: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:142: Line is longer than 80 characters (found 86).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:143: Line is longer than 80 characters (found 86).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:144: Line is longer than 80 characters (found 95).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:150: Line is longer than 80 characters (found 91).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:150:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:161: Line is longer than 80 characters (found 88).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:161:65: ',' is not followed by whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:170: Line is longer than 80 characters (found 90).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:173: Line is longer than 80 characters (found 101).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:175: Line is longer than 80 characters (found 100).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:176:43: 'cast' is not followed by whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:187:9: '}' should be on the same line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:192: Line is longer than 80 characters (found 97).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:192:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:192:72: Redundant throws: 'IllegalArgumentException' is unchecked exception.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226: Line is longer than 80 characters (found 126).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:24: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:29: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:34: '24' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:39: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:55: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:60: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:65: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:83: '60' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:88: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:226:106: '1000' is a magic number.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:229:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:236:19: Must have at least one statement.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:243: Line is longer than 80 characters (found 96).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:243:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:250:19: Must have at least one statement.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:273: Line is longer than 80 characters (found 83).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:350: Line is longer than 80 characters (found 82).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:355: Line is longer than 80 characters (found 86).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:377: Line is longer than 80 characters (found 81).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:391: Line is longer than 80 characters (found 86).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:392: Line is longer than 80 characters (found 84).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:408: Line is longer than 80 characters (found 120).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:425: Line is longer than 80 characters (found 103).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:434: Line is longer than 80 characters (found 82).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:441: Line is longer than 80 characters (found 115).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:480: Line is longer than 80 characters (found 92).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:482: Line is longer than 80 characters (found 83).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:534: Line is longer than 80 characters (found 82).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:543: Line is longer than 80 characters (found 81).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:581: Line is longer than 80 characters (found 91).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:591: Line is longer than 80 characters (found 88).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:595: Line is longer than 80 characters (found 89).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:598: Line is longer than 80 characters (found 105).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:622: Line is longer than 80 characters (found 96).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:646: Line is longer than 80 characters (found 96).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:650: Line is longer than 80 characters (found 83).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:690: Line is longer than 80 characters (found 82).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:700: Line is longer than 80 characters (found 85).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:752: Line is longer than 80 characters (found 84).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:765: Line is longer than 80 characters (found 91).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskIO.java:800: Line is longer than 80 characters (found 99).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:6: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:6:10: 'public' modifier out of order with the JLS suggestions.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:6:71: '{' is not preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:12:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:12:14: 'public' modifier out of order with the JLS suggestions.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:14:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:14:14: 'public' modifier out of order with the JLS suggestions.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:16:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:16:14: 'public' modifier out of order with the JLS suggestions.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:18: Line is longer than 80 characters (found 84).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\TaskList.java:21:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:3: Using the '.*' form of import should be avoided - java.util.*.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:5: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:7: Line is longer than 80 characters (found 108).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:7:9: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:7:31: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:7:56: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:12:17: '{' should be on the previous line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:13:17: '{' should be on the previous line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:14: Line is longer than 80 characters (found 101).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:17:17: '}' should be on the same line.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:18:48: Must have at least one statement.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:22: Line is longer than 80 characters (found 120).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:22:9: Missing a Javadoc comment.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:24: Line is longer than 80 characters (found 81).
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:24:21: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:32:22: 'while' is not followed by whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:35:28: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:42:28: '<' is preceded with whitespace.
+C:\Java\java.course.dev\projects\tasks\sources\ua\edu\sumdu\j2se\myropolska\anna\tasks\Tasks.java:42:56: '<' is preceded with whitespace.
 Audit done.
